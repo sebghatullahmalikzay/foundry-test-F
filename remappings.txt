@@ -1,0 +1,8 @@
+@chainlink/contracts/=lib/chainlink-brownie-contracts/contracts/
+chainlink-brownie-contracts/=lib/chainlink-brownie-contracts/
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+foundry-devops/=lib/foundry-devops/
+lib/forge-std:ds-test/=lib/forge-std/lib/ds-test/src/
+lib/foundry-devops:ds-test/=lib/foundry-devops/lib/forge-std/lib/ds-test/src/
+lib/foundry-devops:forge-std/=lib/foundry-devops/lib/forge-std/src/
